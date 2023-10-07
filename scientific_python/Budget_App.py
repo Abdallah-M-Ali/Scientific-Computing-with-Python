@@ -131,9 +131,6 @@ def create_spend_chart(categories):
 
 # clothes = Category("cloth")
 food = Category("food")
-# # fuck = Category("fuck")
-# # fuck.deposit(500, "massage")
-# # fuck.transfer(80, food)
 # # food.deposit(5, "hi")
 # # # food.deposit(100)
 # # food.withdraw(5, "fuck")
